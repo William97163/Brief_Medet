@@ -1,0 +1,30 @@
+Base : 
+
+learnRate = 0.01        
+maxEpochs = 20          
+t2vRatio = 1.2          
+t2vEpochs = 3            
+batchSize = 300
+
+Accuracy : 99.42
+
+________________
+
+
+learnRate = 0.01        
+maxEpochs = 20          
+t2vRatio = 1.3         
+t2vEpochs = 3            
+batchSize = 300
+
+Accuracy : 99.44
+
+________________
+
+learnRate = 0.01        
+maxEpochs = 20          
+t2vRatio = 1.3         
+t2vEpochs = 3            
+batchSize = 400
+
+Accuracy : 99.49
